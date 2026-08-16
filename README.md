@@ -8,7 +8,7 @@ I'm an Electronics and Communication Engineering student interested in building 
 ---
 
 ## ⚡ About Me
-  <img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+ 
 
 - 🎓 Electronics & Communication Engineering Student
 - 🔌 Interested in Embedded Systems and IoT
