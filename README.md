@@ -1,5 +1,5 @@
-# Hi 👋, I'm Narmatha
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+%7C+Networking;Exploring+5G+%26+Open5GS;Building+Robotics+%26+IoT+Projects)](https://git.io/typing-svg)
+# Hi 👋, I'm Narmatha
 
 ### Electronics & Communication Engineering Student | Embedded Systems | IoT | Networking
 
