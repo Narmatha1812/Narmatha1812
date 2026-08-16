@@ -71,7 +71,7 @@ An AI-enabled smart search-and-rescue ground robot designed to assist rescue tea
 - Robotics
 - Embedded Systems
 
-🔗 [View Project](https://github.com/Narmatha1812/Search_Rescue_robot)
+🔗 [View Project](https://github.com/Narmatha1812/Search_Rescue_robort)
 
 ---
 
