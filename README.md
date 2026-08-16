@@ -101,9 +101,19 @@ An AI-enabled smart search-and-rescue ground robot designed to assist rescue tea
 
 ---
 
-## 📫 Connect With Me
+ ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Narmatha1812-181717?style=for-the-badge&logo=github)](https://github.com/Narmatha1812)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/narmathakavics1812/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:https://www.linkedin.com/in/narmathakavics1812">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
